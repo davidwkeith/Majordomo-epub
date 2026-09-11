@@ -35,7 +35,7 @@
     "gray-matter": "^4.0.3",
     "jszip": "^3.10.1",
     "microsoft-cognitiveservices-speech-sdk": "^1.51.0",
-    "sharp": "^0.35.3"
+    "sharp": "^0.35.4"
   },
   "devDependencies": {
     "@daisy/ace-cli": "^1.4.6",
@@ -45,7 +45,7 @@
     "tsx": "^4.22.3",
     "typescript": "^5.4.0",
     "vitest": "^4.1.2",
-    "wrangler": "^4.124.0"
+    "wrangler": "^4.131.0"
   },
   "license": "CC-BY-SA-4.0",
   "author": "David W. Keith"
